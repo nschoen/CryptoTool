@@ -1,0 +1,5 @@
+/__pycache__
+/cryptotaxcrawler
+transactions_*
+*.pyc
+prices.csv
